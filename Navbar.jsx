@@ -15,13 +15,6 @@ const Navbar = () => {
         <img className='w-10 p-1 rounded-full' src="/icons/github.png" alt="g logo" />
         <span className='font-bold px-2'>Github</span>
     </button>
-    {/* <ul>
-        <li className='flex gap-4'>
-            <a className='hover:font-bold' href="/">Home</a>
-            <a className='hover:font-bold' href="#">About</a>
-            <a className='hover:font-bold' href="#">Contact</a>
-        </li>
-    </ul> */}
     </div>
 
    </nav>
